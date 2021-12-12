@@ -1,0 +1,16 @@
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\bin\Debug\net5.0\example2.exe
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\bin\Debug\net5.0\example2.deps.json
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\bin\Debug\net5.0\example2.runtimeconfig.json
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\bin\Debug\net5.0\example2.runtimeconfig.dev.json
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\bin\Debug\net5.0\example2.dll
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\bin\Debug\net5.0\ref\example2.dll
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\bin\Debug\net5.0\example2.pdb
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\obj\Debug\net5.0\example2.csproj.AssemblyReference.cache
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\obj\Debug\net5.0\example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\obj\Debug\net5.0\example2.AssemblyInfoInputs.cache
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\obj\Debug\net5.0\example2.AssemblyInfo.cs
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\obj\Debug\net5.0\example2.csproj.CoreCompileInputs.cache
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\obj\Debug\net5.0\example2.dll
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\obj\Debug\net5.0\ref\example2.dll
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\obj\Debug\net5.0\example2.pdb
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example2(Dictionary Questions)\example2\obj\Debug\net5.0\example2.genruntimeconfig.cache
